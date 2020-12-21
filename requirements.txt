@@ -1,0 +1,12 @@
+pandas
+datetime
+ipywidgets
+matplotlib
+sklearn.model_selection
+sklearn.svm
+numpy
+time
+sklearn.metrics
+IPython.display
+getpass
+voila
