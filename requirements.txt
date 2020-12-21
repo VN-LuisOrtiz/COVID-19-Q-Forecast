@@ -4,7 +4,6 @@ ipywidgets
 matplotlib
 scikit-learn
 numpy
-time
 IPython.display
 getpass
 voila
